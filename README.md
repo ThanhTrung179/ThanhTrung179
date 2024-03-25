@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align="center">Hi 👋, I' Thành Trung</h1>
+<h1 align="center">Hi 👋, I'm Thành Trung</h1>
 <h3 align="center">A back-end developer from Vietnam</h3>
 <img align="right" alt="Coding" with="400" src="https://i.pinimg.com/originals/a8/ea/82/a8ea82f4a7a31d90ad5366b60248472d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhtrung179&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtrung179" /> </p>
